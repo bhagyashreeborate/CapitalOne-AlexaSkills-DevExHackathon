@@ -1,0 +1,19 @@
+{
+  "name": "devex-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajaymenonm/dev-exchange-hackathon.git"
+  },
+  "author": "Ajay Menon",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^4.1.0",
+    "request-promise": "^4.2.1"
+  }
+}
